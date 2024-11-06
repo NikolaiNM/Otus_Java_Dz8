@@ -1,2 +1,4 @@
+!ext_replacement.sh
+
 ### Тестовые файлы ###
-test*
+*.*
