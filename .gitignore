@@ -1,6 +1,7 @@
 ### Файлы для проверки ###
 !ext_replacement.sh
 !numbers.sh
+!readme.md
 
 ### Тестовые файлы ###
 *.*
